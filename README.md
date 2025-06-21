@@ -16,7 +16,7 @@ This repository contains original resources designed to improve security awarene
 ### 📄 5 Ways to Spot a Phishing Email
 A quick-reference visual guide that highlights the five most common red flags in phishing emails. Ideal for all user levels, from entry-level staff to technical teams.
 
-🔗 [View PDF](https://github.com/elijah-i-olson/security-awareness-resources/blob/main/5%20WAYS%20TO%20SPOT%20A%20PHISHING%20EMAIL.pdf)
+🔗 [View PDF](https://github.com/elijah-i-olson/security-awareness-resources/blob/main/phishing-email-guide/5%20WAYS%20TO%20SPOT%20A%20PHISHING%20EMAIL.pdf)
 
 ---
 
